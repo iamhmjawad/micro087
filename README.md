@@ -50,11 +50,18 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
 </p>
 
+<br>
+
 # 📈 GitHub Activity Graph:
 
-![Furqan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=micro087&hide_border=true&theme=redical)
+<br>
+![Jawad's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=micro087&hide_border=true&theme=redical)
 
+
+
+<br>
 # 🚀 My Stats
+<br>
 
 <p align="center">
 <a href="https://github.com/micro087">
@@ -65,6 +72,8 @@
 </p>
 </p>
 
+
+<br>
 # ✉️ Contact Me Via
 
 - <p>My <a href="mailto:thisishmjawad@gmail.com">email</a>.</p>
