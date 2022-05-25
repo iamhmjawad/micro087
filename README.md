@@ -58,7 +58,10 @@
 
 ![Furqan's GitHub stats](https://github-readme-stats.vercel.app/api?username=micro087&show_icons=true&theme=aura)
 
-<img src="https://github-readme-stats.vercel.app/api?username=micro087&show_icons=true&count_private=true&hide_border=true" style="width: 50%" />
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micro087&hide_border=true&layout=compact" style="width: 45%" align="right"/>
+
 
 # ✉️ Contact Me Via
 
