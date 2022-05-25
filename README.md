@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&lines=I+am+Furqan;A+Final+Year+Computer+Science+Student;Front-End+Developer;Currently+learning+solidity">
   <img src="https://media1.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif" align = "right">
 </div>
-
+ 
 # 👨‍💻 About Me
 
 - 🌱 I’m currently learning Solidity.
