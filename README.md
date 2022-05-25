@@ -1,6 +1,6 @@
 ![Github_header](https://raw.githubusercontent.com/micro087/micro087/main/minimal-dark-coding-wallpaper%20(2).png)
 
-<br><br>
+<br>
 <h1 align="center">
 <a href="https://www.animatedimages.org/cat-computer-56.htm"><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0192.gif" border="0" alt="animated-computer-image-0192" /></a>
 &nbsp; < Hello World! /> &nbsp;
