@@ -7,8 +7,8 @@
 </h1>
 
 <div align-content="space-between">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&lines=I+am+Jawad;A+Final+Year+Computer+Science+Student;Full+Stack+Web+Developer;Working+On+Crazy+Projects!">
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" align="right" width="400px">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&lines=I+am+Jawad;A+Final+Year+Computer+Science+Hehe+Student;Full+Stack+Web+Developer;Doing+Crazy+Projects!">
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" align="right" width="00px">
 </div>
 
 # 👨‍💻 About Me
