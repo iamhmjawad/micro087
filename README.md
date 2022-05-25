@@ -6,8 +6,8 @@
 <a href="https://www.animatedimages.org/cat-computer-56.htm"><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0192.gif" border="0" alt="animated-computer-image-0192" /></a>
 </h1>
 
-<div >
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&lines=I+am+Jawad;A+Final+Year+Computer+Science+Student;Full+Stack+Developer;Doing+Crazy+Projects!">
+<div align-content:space-between>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&lines=I+am+Jawad;A+Final+Year+Computer+Science+Student;Full+Stack+Web+Developer;Doing+Crazy+Projects!">
   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" align="right" width="300px">
 </div>
 
