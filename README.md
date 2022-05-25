@@ -23,7 +23,7 @@
 
 # ⚡ My Tech Stack
 
-<br><br>
+<br>
 
 <p align="center">
 <!-- UX -->
@@ -50,17 +50,17 @@
 
 # 📈 GitHub Activity Graph:
 
-![Furqan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=heyyfurqan&hide_border=true&theme=redical)
+![Furqan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=micro087&hide_border=true&theme=redical)
 
 # 🚀 My Stats
 
-![Furqan's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyyfurqan&show_icons=true&theme=aura)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=heyyfurqan&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Furqan's GitHub stats](https://github-readme-stats.vercel.app/api?username=micro087&show_icons=true&theme=aura)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=micro087&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 # 🐶 My Repos
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heyyfurqan&repo=odin_log)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heyyfurqan&repo=cs50)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=micro087&repo=odin_log)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=micro087&repo=cs50)
 
 # ✉️ Contact Me Via
 
