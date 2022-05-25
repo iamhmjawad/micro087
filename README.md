@@ -21,6 +21,8 @@
 - 😄 Pronouns: He / Him.
 - 📚 7th semester at UET, Lahore.
 
+<br>
+
 # ⚡ My Tech Stack
 
 <br>
@@ -55,12 +57,8 @@
 # 🚀 My Stats
 
 ![Furqan's GitHub stats](https://github-readme-stats.vercel.app/api?username=micro087&show_icons=true&theme=aura)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=micro087&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-# 🐶 My Repos
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=micro087&repo=odin_log)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=micro087&repo=cs50)
+<img src="https://github-readme-stats.vercel.app/api?username=micro087&show_icons=true&count_private=true&hide_border=true" style="width: 50%" />
 
 # ✉️ Contact Me Via
 
