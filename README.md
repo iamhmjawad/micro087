@@ -58,10 +58,10 @@
 
 ![Jawad's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=micro087&hide_border=true&theme=redical)
 
-
-
 <br>
+
 # 🚀 My Stats
+
 <br>
 
 <p align="center">
@@ -72,7 +72,6 @@
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=micro087&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 </p>
-
 
 <br>
 # ✉️ Contact Me Via
