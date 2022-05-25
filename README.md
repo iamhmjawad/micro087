@@ -55,6 +55,7 @@
 # 📈 GitHub Activity Graph:
 
 <br>
+
 ![Jawad's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=micro087&hide_border=true&theme=redical)
 
 
