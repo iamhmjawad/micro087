@@ -1,9 +1,8 @@
 ![Github_header](https://p4.wallpaperbetter.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-thumb.jpg)
 
 <h1 align="center">
-
-  <img src="https://media.giphy.com/media/QvBoMEcQ7DQXK/giphy.gif" width="80"/>
-
+<!-- <img src="https://media.giphy.com/media/QvBoMEcQ7DQXK/giphy.gif" width="80"/> -->
+<a href="https://www.animatedimages.org/cat-dancing-107.htm"><img src="https://www.animatedimages.org/data/media/107/animated-dancing-image-0257.gif" border="0" alt="animated-dancing-image-0257" /></a>
 &nbsp; < Hello World! /> &nbsp;
 <img src="https://user-images.githubusercontent.com/88898454/162615569-25a9d7d3-9235-4322-805f-1438d2b79e43.gif" width="80">
 
