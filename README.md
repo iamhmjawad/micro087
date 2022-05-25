@@ -2,14 +2,14 @@
 <h1></h1>
 <h1 align="center">
 <a href="https://www.animatedimages.org/cat-computer-56.htm"><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0192.gif" border="0" alt="animated-computer-image-0192" /></a>
-&nbsp; < Hehe World! /> &nbsp;
+&nbsp; < Hello World! /> &nbsp;
 <a href="https://www.animatedimages.org/cat-computer-56.htm"><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0192.gif" border="0" alt="animated-computer-image-0192" /></a>
 </h1>
 
 <div style="display: flex;
   justify-content: space-between;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&lines=I+am+Furqan;A+Final+Year+Computer+Science+Student;Front-End+Developer;Currently+learning+solidity">
-  <img src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" align = "right">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&lines=I+am+Jawad;A+Final+Year+Computer+Science+Student;Full+Stack+Developer;Doing+Crazy+Projects!">
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" align = "right">
 </div>
 
 # 👨‍💻 About Me
