@@ -9,7 +9,7 @@
 <div style="display: flex;
   justify-content: space-between;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&lines=I+am+Jawad;A+Final+Year+Computer+Science+Student;Full+Stack+Developer;Doing+Crazy+Projects!">
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" align = "right">
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" align="right" width="50px">
 </div>
 
 # 👨‍💻 About Me
@@ -39,4 +39,4 @@
 
 # ✉️ Contact Me Via
 
-- <p>My <a href="mailto:thisismefurqan@gmail.com">email</a>.</p>
+- <p>My <a href="mailto:thisishmjawad@gmail.com">email</a>.</p>
